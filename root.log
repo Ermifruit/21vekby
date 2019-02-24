@@ -4,3 +4,87 @@
 2019-02-23 09:29:49 INFO  TC_01_Authorization:25 - =====Step3===== Authorization
 2019-02-23 09:29:50 INFO  TC_01_Authorization:28 - =====Step4===== Logout
 2019-02-23 09:29:58 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-02-23 11:17:12 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-02-23 11:17:21 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:97 - =====Step1===== The page "https://www.21vek.by/" is open
+2019-02-23 11:17:22 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:99 - =====Step2===== Open login form
+2019-02-23 11:17:23 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:102 - =====Step3===== Authorization
+2019-02-23 11:17:31 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-02-23 11:17:39 INFO  TC_01_Authorization:19 - =====Step1===== The page "https://www.21vek.by/" is open
+2019-02-23 11:17:40 INFO  TC_01_Authorization:22 - =====Step2===== Open login form
+2019-02-23 11:17:40 INFO  TC_01_Authorization:25 - =====Step3===== Authorization
+2019-02-23 11:17:41 INFO  TC_01_Authorization:28 - =====Step4===== Logout
+2019-02-23 11:17:55 INFO  BaseTest:29 - Finish Test on  Chrome
+2019-02-23 11:46:13 INFO  BaseTest:19 - Start the test for cross-browser testing on ======= Chrome =======
+2019-02-23 11:46:21 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:97 - =====Step1===== The page "https://www.21vek.by/" is open
+2019-02-23 11:46:21 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:99 - =====Step2===== Open login form
+2019-02-23 11:46:22 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:102 - =====Step3===== Authorization
+2019-02-23 11:46:22 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для кухни
+2019-02-23 11:46:27 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Крупная техника
+2019-02-23 11:46:32 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для кухни
+2019-02-23 11:46:35 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Встраиваемая техника, оборудование
+2019-02-23 11:46:41 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для кухни
+2019-02-23 11:46:43 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Мелкая техника
+2019-02-23 11:46:46 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для кухни
+2019-02-23 11:46:48 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Мебель для кухни
+2019-02-23 11:46:53 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для кухни
+2019-02-23 11:46:55 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Посуда, кухонная утварь
+2019-02-23 11:47:01 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:04 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Бытовая техника
+2019-02-23 11:47:09 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:12 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Климат
+2019-02-23 11:47:16 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:18 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Интерьер
+2019-02-23 11:47:28 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:30 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Для ванной
+2019-02-23 11:47:34 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:36 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Мебель для жилых комнат
+2019-02-23 11:47:39 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:42 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Мебель для прихожей
+2019-02-23 11:47:45 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:48 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Мебель для спальни
+2019-02-23 11:47:53 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:47:56 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Мягкая мебель
+2019-02-23 11:48:01 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:48:04 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Мебель для кухни
+2019-02-23 11:49:04 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:50:06 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для дома
+2019-02-23 11:50:08 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Товары для животных
+2019-02-23 11:50:12 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Электроника
+2019-02-23 11:50:14 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> ТВ, видео
+2019-02-23 11:50:17 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Электроника
+2019-02-23 11:50:19 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Аудиотехника
+2019-02-23 11:50:21 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Электроника
+2019-02-23 11:50:23 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Портативные устройства
+2019-02-23 11:50:28 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Электроника
+2019-02-23 11:50:30 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Музыкальные инструменты, оборудование
+2019-02-23 11:50:33 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Электроника
+2019-02-23 11:50:35 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Гаджеты, подарки
+2019-02-23 11:50:37 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Электроника
+2019-02-23 11:50:39 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Фото, видеосъемка
+2019-02-23 11:50:42 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:50:44 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Сантехника
+2019-02-23 11:50:48 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:50:50 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Отопление, водоснабжение, вентиляция
+2019-02-23 11:50:54 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:50:56 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Двери и конструкции для дома
+2019-02-23 11:51:02 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:51:04 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Электроинструмент
+2019-02-23 11:51:06 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:51:08 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Профессиональный инструмент
+2019-02-23 11:51:10 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:51:12 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Ручной инструмент, аксессуары
+2019-02-23 11:51:17 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:51:20 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Строительное оборудование
+2019-02-23 11:51:23 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:51:25 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Крепежные изделия
+2019-02-23 11:51:27 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:51:29 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Отделочные материалы
+2019-02-23 11:51:32 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Для ремонта
+2019-02-23 11:51:34 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Электрооборудование
+2019-02-23 11:51:37 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Компьютеры
+2019-02-23 11:51:39 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Компьютерная техника
+2019-02-23 11:51:43 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Компьютеры
+2019-02-23 11:51:45 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Периферия, аксессуары
+2019-02-23 11:51:51 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Компьютеры
+2019-02-23 11:51:53 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:112 - =====Step5===== Select subcategory of navigation menu -> Комплектующие
+2019-02-23 11:51:55 INFO  TC_03_Auth_SelectSubcategoryofNavigationItem:109 - =====Step4===== Select navigation item and check -> Компьютеры
